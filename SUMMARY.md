@@ -25,6 +25,16 @@
 * [🤖 As a Grantee](playing-the-game/as-a-grantee.md)
 * [👹 As A DAO Member](playing-the-game/as-a-dao-member.md)
 
+## 👒 Hats Protocol
+
+* [⛑ How to use Hats Protocol](hats-protocol/how-to-use-hats-protocol/README.md)
+  * [🌴 Creating a Hat Tree](hats-protocol/how-to-use-hats-protocol/creating-a-hat-tree.md)
+  * [🎩 Creating a Top Hat](hats-protocol/how-to-use-hats-protocol/creating-a-top-hat.md)
+  * [🎓 Creating Hats](hats-protocol/how-to-use-hats-protocol/creating-hats.md)
+  * [🤠 Wearing a Hat](hats-protocol/how-to-use-hats-protocol/wearing-a-hat.md)
+  * [👮♀ Revoking a Hat](hats-protocol/how-to-use-hats-protocol/revoking-a-hat.md)
+  * [🤝 Eligibity Modules](hats-protocol/how-to-use-hats-protocol/eligibity-modules.md)
+
 ## 📝 Templates
 
 * [🐙 Sample Ships](templates/sample-ships/README.md)
@@ -34,3 +44,7 @@
 * [Reports and Proposals](templates/reports-and-proposals/README.md)
   * [🎯 Portfolio Report](templates/reports-and-proposals/portfolio-report.md)
   * [🛥 Grant Ship Proposal](templates/reports-and-proposals/grant-ship-proposal.md)
+
+***
+
+* [🪨 Game designed by DAO Masons](https://www.daomason.com)
