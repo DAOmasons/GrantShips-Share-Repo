@@ -29,3 +29,9 @@
 For more detailed documentation of Hats protocol please read check out their Docs.
 
 {% embed url="https://docs.hatsprotocol.xyz/" %}
+Hats Protocol Docs
+{% endembed %}
+
+{% content-ref url="../../templates/hats-modules-repo.md" %}
+[hats-modules-repo.md](../../templates/hats-modules-repo.md)
+{% endcontent-ref %}
