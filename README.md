@@ -45,18 +45,37 @@ The goal is to continually improve how capital is allocated by learning which Sh
 [tools-needed.md](overview/tools-needed.md)
 {% endcontent-ref %}
 
-## Get Started
+## Grant Ships FAQs
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We've put together some helpful FAQs to help explain all aspects of Grant Ships
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="grant-ships-faqs/reasoning.md" %}
+[reasoning.md](grant-ships-faqs/reasoning.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+## Playing The Game
+
+{% content-ref url="playing-the-game/as-a-member-of-a-grant-ship.md" %}
+[as-a-member-of-a-grant-ship.md](playing-the-game/as-a-member-of-a-grant-ship.md)
 {% endcontent-ref %}
+
+{% content-ref url="playing-the-game/as-a-referee.md" %}
+[as-a-referee.md](playing-the-game/as-a-referee.md)
+{% endcontent-ref %}
+
+{% content-ref url="playing-the-game/as-a-grantee.md" %}
+[as-a-grantee.md](playing-the-game/as-a-grantee.md)
+{% endcontent-ref %}
+
+{% content-ref url="playing-the-game/as-a-dao-member.md" %}
+[as-a-dao-member.md](playing-the-game/as-a-dao-member.md)
+{% endcontent-ref %}
+
+## Templates
+
+These are some sample template that can be used to start playing the game. They can be edited as desired
+
