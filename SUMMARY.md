@@ -41,6 +41,7 @@
   * [Sample Ship 1](templates/sample-ships/sample-ship-1.md)
   * [Sample Ship 2](templates/sample-ships/sample-ship-2.md)
   * [Sample Ship 3](templates/sample-ships/sample-ship-3.md)
+* [🔳 Hats Modules Repo](templates/hats-modules-repo.md)
 * [Reports and Proposals](templates/reports-and-proposals/README.md)
   * [🎯 Portfolio Report](templates/reports-and-proposals/portfolio-report.md)
   * [🛥 Grant Ship Proposal](templates/reports-and-proposals/grant-ship-proposal.md)

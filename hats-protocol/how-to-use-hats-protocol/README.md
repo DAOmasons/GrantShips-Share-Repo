@@ -1,5 +1,7 @@
 # ⛑ How to use Hats Protocol
 
+
+
 {% content-ref url="creating-a-hat-tree.md" %}
 [creating-a-hat-tree.md](creating-a-hat-tree.md)
 {% endcontent-ref %}
@@ -24,3 +26,6 @@
 [eligibity-modules.md](eligibity-modules.md)
 {% endcontent-ref %}
 
+For more detailed documentation of Hats protocol please read check out their Docs.
+
+{% embed url="https://docs.hatsprotocol.xyz/" %}
