@@ -8,16 +8,6 @@
 * [✨ Strengths](overview/strengths.md)
 * [🔧 Tools Needed](overview/tools-needed.md)
 
-## ❓ Grant Ships FAQs
-
-* [📪 Reasoning](grant-ships-faqs/reasoning.md)
-* [⛵ Grant Ships](grant-ships-faqs/grant-ships/README.md)
-  * [📎 Understanding Hats](grant-ships-faqs/grant-ships/understanding-hats.md)
-  * [👮 Referee Team](grant-ships-faqs/grant-ships/referee-team.md)
-  * [💫 Season Cycle](grant-ships-faqs/grant-ships/season-cycle.md)
-  * [📥 Reporting and Voting](grant-ships-faqs/grant-ships/reporting-and-voting.md)
-  * [👽 Other Questions](grant-ships-faqs/grant-ships/other-questions.md)
-
 ## 🎲 Playing The Game
 
 * [🚣♀ As A Member of a Grant Ship](playing-the-game/as-a-member-of-a-grant-ship.md)
@@ -35,16 +25,27 @@
   * [👮♀ Revoking a Hat](hats-protocol/how-to-use-hats-protocol/revoking-a-hat.md)
   * [🤝 Eligibity Modules](hats-protocol/how-to-use-hats-protocol/eligibity-modules.md)
 
-## 📝 Templates
+## ❓ Grant Ships FAQs
 
-* [🐙 Sample Ships](templates/sample-ships/README.md)
-  * [Sample Ship 1](templates/sample-ships/sample-ship-1.md)
-  * [Sample Ship 2](templates/sample-ships/sample-ship-2.md)
-  * [Sample Ship 3](templates/sample-ships/sample-ship-3.md)
-* [🔳 Hats Modules Repo](templates/hats-modules-repo.md)
-* [🦸 Reports and Proposals](templates/reports-and-proposals/README.md)
-  * [🎯 Portfolio Report](templates/reports-and-proposals/portfolio-report.md)
-  * [🛥 Grant Ship Proposal](templates/reports-and-proposals/grant-ship-proposal.md)
+* [📪 Reasoning](grant-ships-faqs/reasoning.md)
+* [⛵ Grant Ships](grant-ships-faqs/grant-ships/README.md)
+  * [📎 Understanding Hats](grant-ships-faqs/grant-ships/understanding-hats.md)
+  * [👮 Referee Team](grant-ships-faqs/grant-ships/referee-team.md)
+  * [💫 Season Cycle](grant-ships-faqs/grant-ships/season-cycle.md)
+  * [📥 Reporting and Voting](grant-ships-faqs/grant-ships/reporting-and-voting.md)
+  * [👽 Other Questions](grant-ships-faqs/grant-ships/other-questions.md)
+
+## 📝 Templates and Tools
+
+* [🦸 Reports and Proposals](templates-and-tools/reports-and-proposals/README.md)
+  * [🎯 Portfolio Report](templates-and-tools/reports-and-proposals/portfolio-report.md)
+  * [🛥 Grant Ship Proposal](templates-and-tools/reports-and-proposals/grant-ship-proposal.md)
+* [🐙 Sample Ships](templates-and-tools/sample-ships/README.md)
+  * [🏰 DAOhaus - Silo](templates-and-tools/sample-ships/daohaus-silo.md)
+  * [🤹 Compound - Discourse](templates-and-tools/sample-ships/compound-discourse.md)
+  * [🏹 Charmverse - Snapshot](templates-and-tools/sample-ships/charmverse-snapshot.md)
+* [🔳 Hats Modules Repo](templates-and-tools/hats-modules-repo.md)
+* [🦴 DAO and Grant Tools](templates-and-tools/dao-and-grant-tools.md)
 
 ***
 
