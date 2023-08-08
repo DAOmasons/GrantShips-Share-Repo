@@ -6,8 +6,8 @@ description: >-
 
 # 🐙 Sample Ships
 
-{% content-ref url="daohaus-hats-shaman.md" %}
-[daohaus-hats-shaman.md](daohaus-hats-shaman.md)
+{% content-ref url="daohaus-hats-jokerace.md" %}
+[daohaus-hats-jokerace.md](daohaus-hats-jokerace.md)
 {% endcontent-ref %}
 
 {% content-ref url="council-discourse.md" %}

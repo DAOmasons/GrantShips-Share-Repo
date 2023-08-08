@@ -41,7 +41,7 @@
   * [🎯 Portfolio Report](templates-and-tools/reports-and-proposals/portfolio-report.md)
   * [🛥 Grant Ship Proposal](templates-and-tools/reports-and-proposals/grant-ship-proposal.md)
 * [🐙 Sample Ships](templates-and-tools/sample-ships/README.md)
-  * [🏰 DAOhaus - Hats Shaman](templates-and-tools/sample-ships/daohaus-hats-shaman.md)
+  * [🏰 DAOhaus - Hats - Jokerace](templates-and-tools/sample-ships/daohaus-hats-jokerace.md)
   * [🤹 Council - Discourse](templates-and-tools/sample-ships/council-discourse.md)
   * [🏹 Charmverse - Snapshot](templates-and-tools/sample-ships/charmverse-snapshot.md)
 * [🔳 Hats Modules Repo](templates-and-tools/hats-modules-repo.md)
