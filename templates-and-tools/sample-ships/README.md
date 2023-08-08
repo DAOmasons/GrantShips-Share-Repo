@@ -6,12 +6,12 @@ description: >-
 
 # 🐙 Sample Ships
 
-{% content-ref url="daohaus-silo.md" %}
-[daohaus-silo.md](daohaus-silo.md)
+{% content-ref url="daohaus-hats-shaman.md" %}
+[daohaus-hats-shaman.md](daohaus-hats-shaman.md)
 {% endcontent-ref %}
 
-{% content-ref url="compound-discourse.md" %}
-[compound-discourse.md](compound-discourse.md)
+{% content-ref url="council-discourse.md" %}
+[council-discourse.md](council-discourse.md)
 {% endcontent-ref %}
 
 {% content-ref url="charmverse-snapshot.md" %}
