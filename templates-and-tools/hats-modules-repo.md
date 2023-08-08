@@ -6,4 +6,4 @@ description: >-
 
 # 🔳 Hats Modules Repo
 
-[https://github.com/grantships/Hats](https://github.com/grantships/Hats)
+coming soon...

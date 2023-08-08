@@ -26,6 +26,10 @@ Hats Protocol has developed a "Shaman" contract which on-boards and off-boards m
 
 You can check out the shaman [here](https://github.com/grantships/hats-baal-shamans).
 
+#### Hats Seasonal Time Expiry Module
+
+This Hat can be used in this sample as a way to end a grant season. Hats could be set up that are tied to funding for a Grant Ship. At the end of the season, no more funds should be transfered to the DAO, via the time locked toggle module. You can check out this toggle module [here](https://github.com/Hats-Protocol/season-toggle).
+
 #### Jokerace
 
 Jokerace can be used in a couple different ways in this particular sample design.
@@ -42,3 +46,16 @@ While jokerace does provide the ability for grantees to post their proposals in 
 
 Discord now has a feature for creating forums within a server. Forums differ from other channels in that they allow for longer form posts. It is recommended that grantees post their grant applications in forums, as soon as they can, so people making the decisions of where to place their votes, have a good understanding of what their votes are going to be used for.
 
+### Links to The Tools
+
+{% embed url="https://daohaus.club/" %}
+DAOhaus Homepage
+{% endembed %}
+
+{% embed url="https://www.hatsprotocol.xyz/" %}
+Hats Protocol
+{% endembed %}
+
+{% embed url="https://jokerace.xyz/" %}
+jokerace
+{% endembed %}
