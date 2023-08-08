@@ -2,8 +2,9 @@
 
 ### Tools needed for this Ship:
 
-* DAOhaus DAOs
+* DAOhaus
 * Hats On-boarding Shaman
+* Hats Seasonal Tme Expiry Module
 * Jokerace
   * Hats Joke Race Eligibility Module
 * Discord
