@@ -17,6 +17,7 @@
 
 ## 👒 Hats Protocol
 
+* [⛵ Hats Within Grants Ships](hats-protocol/hats-within-grants-ships.md)
 * [⛑ How to use Hats Protocol](hats-protocol/how-to-use-hats-protocol/README.md)
   * [🌴 Creating a Hat Tree](hats-protocol/how-to-use-hats-protocol/creating-a-hat-tree.md)
   * [🎩 Creating a Top Hat](hats-protocol/how-to-use-hats-protocol/creating-a-top-hat.md)
