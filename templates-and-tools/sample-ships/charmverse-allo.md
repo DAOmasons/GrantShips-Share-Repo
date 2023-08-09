@@ -1,9 +1,9 @@
-# 🏹 Charmverse - Snapshot
+# 🏹 Charmverse - Allo
 
 ### Tools needed for this Ship:
 
 * Charmverse
-* Snapshot
+* Allo
 
 ### How This Ship Floats
 

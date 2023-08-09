@@ -43,8 +43,8 @@
   * [🛥 Grant Ship Proposal](templates-and-tools/reports-and-proposals/grant-ship-proposal.md)
 * [🐙 Sample Ships](templates-and-tools/sample-ships/README.md)
   * [🏰 DAOhaus - Hats - Jokerace](templates-and-tools/sample-ships/daohaus-hats-jokerace.md)
-  * [🤹 Council - Discourse](templates-and-tools/sample-ships/council-discourse.md)
-  * [🏹 Charmverse - Snapshot](templates-and-tools/sample-ships/charmverse-snapshot.md)
+  * [🤹 Compound/Tally - Smart Grants - EAS](templates-and-tools/sample-ships/compound-tally-smart-grants-eas.md)
+  * [🏹 Charmverse - Allo](templates-and-tools/sample-ships/charmverse-allo.md)
 * [🔳 Hats Modules Repo](templates-and-tools/hats-modules-repo.md)
 * [🦴 DAO and Grant Tools](templates-and-tools/dao-and-grant-tools.md)
 

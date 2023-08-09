@@ -10,10 +10,10 @@ description: >-
 [daohaus-hats-jokerace.md](daohaus-hats-jokerace.md)
 {% endcontent-ref %}
 
-{% content-ref url="council-discourse.md" %}
-[council-discourse.md](council-discourse.md)
+{% content-ref url="compound-tally-smart-grants-eas.md" %}
+[compound-tally-smart-grants-eas.md](compound-tally-smart-grants-eas.md)
 {% endcontent-ref %}
 
-{% content-ref url="charmverse-snapshot.md" %}
-[charmverse-snapshot.md](charmverse-snapshot.md)
+{% content-ref url="charmverse-allo.md" %}
+[charmverse-allo.md](charmverse-allo.md)
 {% endcontent-ref %}
