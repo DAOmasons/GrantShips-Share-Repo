@@ -17,6 +17,10 @@ description: >-
 [charmverse-allo.md](charmverse-allo.md)
 {% endcontent-ref %}
 
+{% content-ref url="daohaus-with-shamans.md" %}
+[daohaus-with-shamans.md](daohaus-with-shamans.md)
+{% endcontent-ref %}
+
 {% content-ref url="daohaus-hats-jokerace.md" %}
 [daohaus-hats-jokerace.md](daohaus-hats-jokerace.md)
 {% endcontent-ref %}
@@ -27,10 +31,6 @@ description: >-
 
 {% content-ref url="tally-governor.md" %}
 [tally-governor.md](tally-governor.md)
-{% endcontent-ref %}
-
-{% content-ref url="daohaus-with-shamans.md" %}
-[daohaus-with-shamans.md](daohaus-with-shamans.md)
 {% endcontent-ref %}
 
 {% content-ref url="discourse.md" %}
