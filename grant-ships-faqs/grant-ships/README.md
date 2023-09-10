@@ -1,5 +1,7 @@
 # ⛵ Grant Ships
 
+<figure><img src="../../.gitbook/assets/grantyacht.png" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>What is a Grant Ship?</summary>
