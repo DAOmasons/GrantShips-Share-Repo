@@ -1,12 +1,8 @@
----
-description: draft
----
-
 # 🤹 Gitcoin Grants Stack
 
 ### Gitcoin Grants Stack and Setting Up a Funding Round in Grant Ships
 
-#### Introduction
+#### [https://www.gitcoin.co/grants-stack](https://www.gitcoin.co/grants-stack)
 
 Gitcoin Grants Stack is a decentralized, smart contract-enabled solution designed to streamline the management of community-oriented grants programs. It connects grants program managers, project owners, and community members, making it easier to manage, discover, and participate in grants programs. This document aims to guide Grant Ships in setting up a funding round using the Gitcoin Grants Stack.
 
