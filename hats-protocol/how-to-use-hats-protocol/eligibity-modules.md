@@ -6,6 +6,8 @@
 
 Eligibility Modules define the criteria for wearing a Hat. This document explains how to set up Eligibility Modules.
 
+<figure><img src="../../.gitbook/assets/hats_eligibility_mod.png" alt=""><figcaption></figcaption></figure>
+
 ### Steps
 
 #### 1. Select Hat

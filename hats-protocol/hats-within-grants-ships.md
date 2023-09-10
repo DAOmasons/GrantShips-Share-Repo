@@ -7,6 +7,8 @@ description: >-
 
 # ⛵ Hats Within Grants Ships
 
+<figure><img src="../.gitbook/assets/cyberpunkgroup.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/HatsTreeStructure (2).png" alt=""><figcaption><p>Grant Ships Overall Hats Structure</p></figcaption></figure>
 
 ## The Hats :tophat: :cowboy: :mortar\_board:

@@ -6,6 +6,8 @@
 
 Revoking a Hat removes it from a member within a Grant Ship. This document outlines the steps to revoke a Hat.
 
+<figure><img src="../../.gitbook/assets/hat_revoke_ceremony.png" alt=""><figcaption></figcaption></figure>
+
 ### Steps
 
 #### 1. Navigate to Member

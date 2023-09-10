@@ -12,6 +12,8 @@ Wearing a Hat assigns you a specific role within a Grant Ship. This document gui
 
 * Navigate to the platform and choose the Hat you wish to wear.
 
+<figure><img src="../../.gitbook/assets/cyberpunk_wear_hat.png" alt=""><figcaption></figcaption></figure>
+
 #### 2. Click "Wear Hat"
 
 * This option allows you to wear the selected Hat.

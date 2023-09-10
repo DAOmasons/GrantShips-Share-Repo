@@ -1,5 +1,7 @@
 # ✨ Strengths
 
+<figure><img src="../.gitbook/assets/strenghtShips.png" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>Pluralistic Design</summary>

@@ -6,6 +6,8 @@
 
 The Top Hat is the first hat you create in a Hat Tree. This document guides you through the process of creating a Top Hat for Grant Ships.
 
+<figure><img src="../../.gitbook/assets/tophat.png" alt=""><figcaption></figcaption></figure>
+
 ### Steps
 
 #### 1. Visit the Platform

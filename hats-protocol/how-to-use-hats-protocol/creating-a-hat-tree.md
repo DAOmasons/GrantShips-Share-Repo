@@ -6,6 +6,8 @@
 
 Creating a Hat Tree is the foundational step in structuring roles and responsibilities within Grant Ships. This document outlines the steps to create a Hat Tree.
 
+<figure><img src="../../.gitbook/assets/hattree.png" alt=""><figcaption></figcaption></figure>
+
 ### Steps
 
 #### 1. Create the Top Hat

@@ -6,6 +6,8 @@
 
 Creating Hats is essential for defining roles and responsibilities within a Grant Ship. This document outlines the steps to create Hats under a Top Hat.
 
+<figure><img src="../../.gitbook/assets/hatfactory.png" alt=""><figcaption></figcaption></figure>
+
 ### Steps
 
 #### 1. Navigate to Hat Tree
@@ -27,6 +29,10 @@ Creating Hats is essential for defining roles and responsibilities within a Gran
 #### 5. Confirm Transaction
 
 * Confirm the transaction through your wallet to create the Hat.
+
+<figure><img src="../../.gitbook/assets/creatingahat.png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### Conclusion
 

@@ -9,6 +9,8 @@ Hats are organized in a tree structure, called a "Hats tree". Each tree can hold
 In either case, the first step to creating a new Hats tree is to create the "Top Hat": the root of a Hats tree which serves as a super-admin for all of the other hats that will be added to the tree. - [Hats Docs ](https://docs.hatsprotocol.xyz/using-hats/creating-my-first-hat#1.-creating-a-new-tree)
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/instructorHat.png" alt=""><figcaption></figcaption></figure>
+
 Hats can be used in a few different ways in the Grant Ships game. The part of the game setup involves creating a Hat Tree, which will grant the formation of Ships. Any Ship that receives funding must hold an active Hat.&#x20;
 
 If the Ship is under performing, abandoned or not following the rules of the game, the ships Hat may be revoked and funding stream stopped for that ship. The ship may continue to exist, without funding from the DAO and may have Hat reinstated if the DAO decides to do so.
