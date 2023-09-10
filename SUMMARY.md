@@ -43,10 +43,15 @@
 ## 📝 Templates and Tools
 
 * [🐙 Tools For Grant Ships](templates-and-tools/tools-for-grant-ships/README.md)
-  * [🏰 Jokerace](templates-and-tools/tools-for-grant-ships/daohaus-hats-jokerace.md)
+  * [🤹 Gitcoin Grants Stack](templates-and-tools/tools-for-grant-ships/compound-tally-smart-grants-eas.md)
   * [🏹 Allo](templates-and-tools/tools-for-grant-ships/charmverse-allo.md)
   * [🧙♂ DAOhaus with Shamans](templates-and-tools/tools-for-grant-ships/daohaus-with-shamans.md)
-  * [🤹 Gitcoin Grants Stack](templates-and-tools/tools-for-grant-ships/compound-tally-smart-grants-eas.md)
+  * [🏰 Jokerace](templates-and-tools/tools-for-grant-ships/daohaus-hats-jokerace.md)
+  * [📸 Snapshot](templates-and-tools/tools-for-grant-ships/snapshot.md)
+  * [🧮 Tally / Governor](templates-and-tools/tools-for-grant-ships/tally-governor.md)
+  * [✒ Discourse](templates-and-tools/tools-for-grant-ships/discourse.md)
+  * [⚔ Discord](templates-and-tools/tools-for-grant-ships/discord.md)
+  * [💎 Charmverse](templates-and-tools/tools-for-grant-ships/charmverse.md)
 * [🦸 Reports and Proposals](templates-and-tools/reports-and-proposals/README.md)
   * [🎯 Portfolio Report](templates-and-tools/reports-and-proposals/portfolio-report.md)
   * [🛥 Grant Ship Proposal](templates-and-tools/reports-and-proposals/grant-ship-proposal.md)
