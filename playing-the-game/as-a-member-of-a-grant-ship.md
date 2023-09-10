@@ -10,6 +10,8 @@ As a member of a Grant Ship, your role is multifaceted and crucial for the succe
 
 **Implementing Strategies** is another key aspect. Whether it's a strategy for fund allocation, applicant screening, or community engagement, effective strategy implementation can set your Grant Ship apart from the rest.
 
+<figure><img src="../.gitbook/assets/grantshipsailors.png" alt=""><figcaption></figcaption></figure>
+
 **Staying Engaged** throughout the funding season is vital. Active participation in discussions, decision-making, and reporting is expected from each member.
 
 **Funding Grants that Align** with the goals and values of the Arbitrum ecosystem and your Grant Ship is essential. This alignment ensures that the funds are utilized in a manner that resonates with the community and achieves the desired impact.
