@@ -41,8 +41,8 @@ The goal is to continually improve how capital is allocated by learning which Sh
 [strengths.md](overview/strengths.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/tools-needed.md" %}
-[tools-needed.md](overview/tools-needed.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Playing The Game
@@ -89,14 +89,14 @@ These are some sample template that can be used to start playing the game. They 
 [reports-and-proposals](templates-and-tools/reports-and-proposals/)
 {% endcontent-ref %}
 
-{% content-ref url="templates-and-tools/sample-ships/" %}
-[sample-ships](templates-and-tools/sample-ships/)
+{% content-ref url="templates-and-tools/tools-for-grant-ships/" %}
+[tools-for-grant-ships](templates-and-tools/tools-for-grant-ships/)
 {% endcontent-ref %}
 
-{% content-ref url="templates-and-tools/hats-modules-repo.md" %}
-[hats-modules-repo.md](templates-and-tools/hats-modules-repo.md)
+{% content-ref url="hats-protocol/hats-modules-repo.md" %}
+[hats-modules-repo.md](hats-protocol/hats-modules-repo.md)
 {% endcontent-ref %}
 
-{% content-ref url="templates-and-tools/dao-and-grant-tools.md" %}
-[dao-and-grant-tools.md](templates-and-tools/dao-and-grant-tools.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

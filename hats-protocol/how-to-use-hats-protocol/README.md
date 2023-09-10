@@ -55,6 +55,6 @@ For more detailed documentation of Hats protocol please read check out their Doc
 Hats Protocol Docs
 {% endembed %}
 
-{% content-ref url="../../templates-and-tools/hats-modules-repo.md" %}
-[hats-modules-repo.md](../../templates-and-tools/hats-modules-repo.md)
+{% content-ref url="../hats-modules-repo.md" %}
+[hats-modules-repo.md](../hats-modules-repo.md)
 {% endcontent-ref %}

@@ -1,10 +1,11 @@
 ---
 description: >-
-  This section will contain sample designs of Individual Grant Ships that can be
-  used.
+  The following Web3 Tools can be part of any Grant Ship's stack of tools. This
+  is certainly not the only tools available and ships are free to choose what
+  works best for their ship.
 ---
 
-# 🐙 Sample Ships
+# 🐙 Tools For Grant Ships
 
 {% content-ref url="daohaus-hats-jokerace.md" %}
 [daohaus-hats-jokerace.md](daohaus-hats-jokerace.md)

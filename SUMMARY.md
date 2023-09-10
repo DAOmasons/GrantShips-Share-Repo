@@ -6,7 +6,6 @@
 
 * [💡 How It Works](overview/how-it-works.md)
 * [✨ Strengths](overview/strengths.md)
-* [🔧 Tools Needed](overview/tools-needed.md)
 
 ## 🎲 Playing The Game
 
@@ -25,6 +24,11 @@
   * [🤠 Wearing a Hat](hats-protocol/how-to-use-hats-protocol/wearing-a-hat.md)
   * [👮♀ Revoking a Hat](hats-protocol/how-to-use-hats-protocol/revoking-a-hat.md)
   * [🤝 Eligibity Modules](hats-protocol/how-to-use-hats-protocol/eligibity-modules.md)
+* [🧢 Hats App and Repo](hats-protocol/hats-modules-repo.md)
+
+***
+
+* [Evaluating Ships](evaluating-ships.md)
 
 ## ❓ Grant Ships FAQs
 
@@ -38,15 +42,14 @@
 
 ## 📝 Templates and Tools
 
+* [🐙 Tools For Grant Ships](templates-and-tools/tools-for-grant-ships/README.md)
+  * [🏰 Jokerace](templates-and-tools/tools-for-grant-ships/daohaus-hats-jokerace.md)
+  * [🏹 Allo](templates-and-tools/tools-for-grant-ships/charmverse-allo.md)
+  * [🧙♂ DAOhaus with Shamans](templates-and-tools/tools-for-grant-ships/daohaus-with-shamans.md)
+  * [🤹 Gitcoin Grants Stack](templates-and-tools/tools-for-grant-ships/compound-tally-smart-grants-eas.md)
 * [🦸 Reports and Proposals](templates-and-tools/reports-and-proposals/README.md)
   * [🎯 Portfolio Report](templates-and-tools/reports-and-proposals/portfolio-report.md)
   * [🛥 Grant Ship Proposal](templates-and-tools/reports-and-proposals/grant-ship-proposal.md)
-* [🐙 Sample Ships](templates-and-tools/sample-ships/README.md)
-  * [🏰 DAOhaus - Hats - Jokerace](templates-and-tools/sample-ships/daohaus-hats-jokerace.md)
-  * [🤹 Compound/Tally - Smart Grants - EAS](templates-and-tools/sample-ships/compound-tally-smart-grants-eas.md)
-  * [🏹 Charmverse - Allo](templates-and-tools/sample-ships/charmverse-allo.md)
-* [🔳 Hats Modules Repo](templates-and-tools/hats-modules-repo.md)
-* [🦴 DAO and Grant Tools](templates-and-tools/dao-and-grant-tools.md)
 
 ***
 
