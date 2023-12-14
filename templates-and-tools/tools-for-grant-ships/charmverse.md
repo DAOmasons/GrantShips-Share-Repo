@@ -1,3 +1,0 @@
-# 💎 Charmverse
-
-Coming Soon
