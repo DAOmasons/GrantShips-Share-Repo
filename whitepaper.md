@@ -15,10 +15,11 @@ At the heart of our mission lies a commitment to advancing the Ethereum ecosyste
 We strive to propel smart contract technology forward, leveraging innovative tools and approaches that enable us to operate effectively in a decentralized, on-chain environment. Through our concerted efforts, we aim to not only enhance the technical capabilities of Ethereum but also to cultivate a vibrant, dynamic community where groundbreaking ideas are brought to fruition, setting new standards in blockchain technology and its applications.
 
 
-
 ## Historical Background
 
-- [ ] TODO
+Grant Ships began its journey as an entry in a contest hosted by Plurality Labs on Jokerace. This contest sought innovative proposals for designing a grants system for the Arbitrum DAO. DAO Masons, a collective of governance enthusiasts dedicated to shaping effective DAO governance systems, stepped up to this challenge with their original concept of Grant Ships. Their proposal was not just an entry; it became the winning design, marking the first significant milestone in the Grant Ships story. The contest victory underscored the potential of Grant Ships in revolutionizing grant distribution within decentralized networks. [Contest Entry on Jokerace](https://jokerace.xyz/contest/arbitrumone/0xc1AD5102A357049f3e698248731e6A86f0F3a73d)
+
+The success of Grant Ships in the contest led to an invitation from Disruption Joe of Plurality Labs to create a proposal to build the Game. This invitation was a pivotal moment, offering DAO Masons the opportunity to transform their winning proposal into a tangible system. They crafted a comprehensive proposal, detailing the mechanics, goals, and structure of Grant Ships, aligning it with the evolving needs of the Arbitrum ecosystem. This proposal was met with enthusiasm and approval, setting the stage for the development and upcoming beta round of Grant Ships, a testament to the project's innovative approach to decentralized grant allocation. [DAO Masons' Proposal](https://hackmd.io/@DAOMasons/HkC4Hib-6)
 
 ## Abbreviations
 
@@ -295,7 +296,7 @@ One of the key mechanisms of this model is the mutual benefit it offers. As more
 
 ## Rules of the Game
 
-- [ ] TODO
+For a detailed look into the rules of Grant Ships, please go to [rules.grantships.fun](https://rules.grantships.fun)
 
 ## Grant Ships Compliance Policy  
   
@@ -354,21 +355,37 @@ Facilitators play a crucial role in the governance and operational success of th
 
 ## Apendix 1 Team
 
-- [ ] TODO
-- [ ] DAO Masons
-    - boiler
-    - jord
-    - ui
+- [DAO Masons](https://daomasons.com)
+    - Boiler aka Chris
+        - Project Manager
+        - Outreach Manager
+        - UX
+    - Jord
+        - Engineering Lead
+        - UI/UX
+    - ui369
+        - Product Manager
+        - UI/UX Lead
 
 ## Apendix 2 Build Grant
 
-- [ ] TODO
-- [ ] Project made possible by Plurality Labs, do a blurb
+Grant Ships was made possible via a builders grant from [Plurality Labs](https://www.pluralitylabs.com/). Our original proposal to Plurality is [here](https://hackmd.io/@DAOMasons/HkC4Hib-6)
 
 ## Index
-- [ ] TODO Get all these links
-- Allo
-- GovMonth Results
-- hats
-- karma
+### Grant Ships Links
+
+- [Rule Book](https://rules.grantships.fun)
+- [Sign Up Form](https://forms.grantsships.fun)
+- [Telegram](https://t.me/grantships)
+- [Welcome Page](https://grantships.fun)
+- [X](https://twitter.com/daomasons)
+
+### References Links
+- [Allo Protocol](https://allo.gitcoin.co/)
+- [DAO Masons](https://daomasons.com)
+- [Grants Framework Desisgn Contest Announcement](https://forum.arbitrum.foundation/t/grants-framework-voting-is-live-for-the-top-100-delegates/14560)
+- [Grants Framework Contest Voting Announcement](https://forum.arbitrum.foundation/t/grants-framework-voting-is-live-for-the-top-100-delegates/14560)
+- [GovMonth Report](https://www.canva.com/design/DAFxnxARPYQ/-V_4RrRGcHJAphTjROakcw/view?utm_content=DAFxnxARPYQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Hats Protocol](https://www.hatsprotocol.xyz/)
+- [Karma GAP](https://gap.karmahq.xyz/)
 - [Nash Equillibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)
